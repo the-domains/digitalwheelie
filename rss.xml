@@ -4,8 +4,15 @@
         <description><![CDATA[Digital Wheelie - Peace, Love & Pop a Wheelie!]]></description>
         <link>https://thegrid.ai/digitalwheelie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 19:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2015 19:36:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digitalwheelie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Ted Kusio (@DigitalWheelie). Code, Draw, Make Music, Make Love. Yeah, let's make stuff on and off-line, tell tales, be cool, and re-invent the wheelie! OnFB: http://t.co/HdFmyA9h5u. Minneapolis, MN</p>]]></description>
+            <link>https://twitter.com/DigitalWheelie</link>
+            <guid isPermaLink="false">0a4360a4-20fb-428f-8077-79cb2fa50f8b</guid>
+            <pubDate>Sat, 14 Nov 2015 19:36:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DigitalWheelie]]></title>
             <description><![CDATA[<article><h1>DigitalWheelie</h1><p>Listen to DigitalWheelie | Explore the largest community of artists, bands, podcasters and creators of music & audio.. Minneapolis. 15 Tracks. 5 Followers. Stream Tracks and Playlists from DigitalWheelie on your desktop or mobile device.</p><img src="http://i1.sndcdn.com/avatars-000069306260-otr44c-t500x500.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.instagram.com/digitalwheelie/</link>
             <guid isPermaLink="false">3ef817ed-e507-4dd8-8022-377e1de4db8c</guid>
             <pubDate>Sat, 14 Nov 2015 19:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The latest Tweets from Ted Kusio (@DigitalWheelie). Code, Draw, Make Music, Make Love. Yeah, let's make stuff on and off-line, tell tales, be cool, and re-invent the wheelie! OnFB: http://t.co/HdFmyA9h5u. Minneapolis, MN</p>]]></description>
-            <link>https://twitter.com/DigitalWheelie</link>
-            <guid isPermaLink="false">0a4360a4-20fb-428f-8077-79cb2fa50f8b</guid>
-            <pubDate>Sat, 14 Nov 2015 19:35:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
