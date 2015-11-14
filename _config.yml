@@ -1,0 +1,23 @@
+name: DigitalWheelie
+favicon: null
+layout_spectrum: 0.5754336954560131
+typography_spectrum: 0.3570860407780856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4583157105371356
+  lightness: 0.2543162296060473
+  saturation: 0.9196792235597968
+  rhythmicContrast: 0.825379888061434
+purpose: []
