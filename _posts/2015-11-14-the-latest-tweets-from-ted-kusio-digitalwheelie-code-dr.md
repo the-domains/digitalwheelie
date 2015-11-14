@@ -21,10 +21,10 @@ author:
           - 69
 related: []
 publisher:
-  url: 'http://twitter.com'
   name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
   domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 keywords:
   - https
   - tweet
@@ -40,14 +40,16 @@ description: "The latest Tweets from Ted Kusio (@DigitalWheelie). Code, Draw, Ma
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/DigitalWheelie'
-datePublished: '2015-11-14T19:35:57.579Z'
+datePublished: '2015-11-14T19:36:11.599Z'
 title: ''
-dateModified: '2015-11-14T19:35:35.388Z'
+dateModified: '2015-11-14T19:36:07.765Z'
 sourcePath: _posts/2015-11-14-the-latest-tweets-from-ted-kusio-digitalwheelie-code-dr.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: Comment
 _context: 'http://schema.org'
 
