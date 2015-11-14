@@ -1,4 +1,23 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: true
+keywords:
+  - https
+  - tweet
+  - digitalwheelie
+  - storyes
+  - http
+  - twitter
+  - location
+  - pissed
+  - love
+  - extremists
+description: "The latest Tweets from Ted Kusio (@DigitalWheelie). Code, Draw, Make Music, Make Love. Yeah, let's make stuff on and off-line, tell tales, be cool, and re-invent the wheelie! OnFB: http://t.co/HdFmyA9h5u. Minneapolis, MN"
+datePublished: '2015-11-14T19:50:23.149Z'
+dateModified: '2015-11-14T19:50:18.812Z'
 author:
   - name: digitalwheelie
     url: 'http://twitter.com/digitalwheelie'
@@ -20,36 +39,17 @@ author:
           - 70
           - 69
 related: []
+app_links: []
+title: Twitter
+sourcePath: _posts/2015-11-14-the-latest-tweets-from-ted-kusio-digitalwheelie-code-dr.md
+published: true
+authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'http://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-keywords:
-  - https
-  - tweet
-  - digitalwheelie
-  - storyes
-  - http
-  - twitter
-  - location
-  - pissed
-  - love
-  - extremists
-description: "The latest Tweets from Ted Kusio (@DigitalWheelie). Code, Draw, Make Music, Make Love. Yeah, let's make stuff on and off-line, tell tales, be cool, and re-invent the wheelie! OnFB: http://t.co/HdFmyA9h5u. Minneapolis, MN"
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'https://twitter.com/DigitalWheelie'
-datePublished: '2015-11-14T19:36:11.599Z'
-title: ''
-dateModified: '2015-11-14T19:36:07.765Z'
-sourcePath: _posts/2015-11-14-the-latest-tweets-from-ted-kusio-digitalwheelie-code-dr.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
-authors: []
+url: twitter/index.html
 _type: Comment
 _context: 'http://schema.org'
 
