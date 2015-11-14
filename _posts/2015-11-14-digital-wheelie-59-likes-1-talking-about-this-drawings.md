@@ -6,11 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Digital Wheelie. 59 likes · 1 talking about this. Drawings, pics, music, and other art created by Ted Kusio: Let's re-invent the wheelie!"
-datePublished: '2015-11-14T19:46:28.765Z'
-dateModified: '2015-11-14T19:46:24.693Z'
+datePublished: '2015-11-14T19:49:53.328Z'
+dateModified: '2015-11-14T19:49:49.737Z'
 author: []
 related: []
-title: DigitalWheelie on Facebook
+title: Facebook
 app_links:
   - url: 'fb://page/187838094692685'
     type: android
