@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Digital Wheelie - Peace, Love & Pop a Wheelie!]]></title>
         <description><![CDATA[Digital Wheelie - Peace, Love & Pop a Wheelie!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/digitalwheelie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 19:32:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 Nov 2015 19:33:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/digitalwheelie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ted Kusio (@digitalwheelie) * Instagram photos and videos]]></title>
             <description><![CDATA[<article><h1>Ted Kusio (@digitalwheelie) * Instagram photos and videos</h1><img src="https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-19/11348357_399870970210535_1904969710_a.jpg"></article>]]></description>
             <link>https://www.instagram.com/digitalwheelie/</link>
             <guid isPermaLink="false">3ef817ed-e507-4dd8-8022-377e1de4db8c</guid>
-            <pubDate>Sat, 14 Nov 2015 19:32:32 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2015 19:33:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
