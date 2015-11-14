@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://soundcloud.com'
   name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
 description: 'Listen to DigitalWheelie | Explore the largest community of artists, bands, podcasters and creators of music & audio.. Minneapolis. 15 Tracks. 5 Followers. Stream Tracks and Playlists from DigitalWheelie on your desktop or mobile device.'
 app_links:
@@ -24,13 +24,16 @@ app_links:
     type: web
 isBasedOnUrl: 'https://soundcloud.com/digitalwheelie'
 title: DigitalWheelie
-datePublished: '2015-11-14T19:34:29.180Z'
-dateModified: '2015-11-14T19:33:49.711Z'
+datePublished: '2015-11-14T19:34:54.289Z'
+dateModified: '2015-11-14T19:34:49.664Z'
 sourcePath: _posts/2015-11-14-digitalwheelie.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: AudioObject
 _context: 'http://schema.org'
 
