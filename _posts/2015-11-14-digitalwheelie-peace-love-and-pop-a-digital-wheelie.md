@@ -6,12 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-14T19:45:58.072Z'
-dateModified: '2015-11-14T19:45:41.912Z'
+datePublished: '2015-11-14T19:48:06.079Z'
+dateModified: '2015-11-14T19:47:51.899Z'
 author: []
 related: []
 app_links: []
-title: 'DigitalWheelie - Peace, Love, and Pop a Digital Wheelie'
+title: DigitalWheelie - Site
 sourcePath: _posts/2015-11-14-digitalwheelie-peace-love-and-pop-a-digital-wheelie.md
 published: true
 authors: []
