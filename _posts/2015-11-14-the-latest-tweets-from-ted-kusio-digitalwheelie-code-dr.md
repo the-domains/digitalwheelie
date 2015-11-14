@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - https
   - tweet
@@ -16,8 +16,8 @@ keywords:
   - love
   - extremists
 description: "The latest Tweets from Ted Kusio (@DigitalWheelie). Code, Draw, Make Music, Make Love. Yeah, let's make stuff on and off-line, tell tales, be cool, and re-invent the wheelie! OnFB: http://t.co/HdFmyA9h5u. Minneapolis, MN"
-datePublished: '2015-11-14T19:50:23.149Z'
-dateModified: '2015-11-14T19:50:18.812Z'
+datePublished: '2015-11-14T19:53:23.188Z'
+dateModified: '2015-11-14T19:52:40.957Z'
 author:
   - name: digitalwheelie
     url: 'http://twitter.com/digitalwheelie'
