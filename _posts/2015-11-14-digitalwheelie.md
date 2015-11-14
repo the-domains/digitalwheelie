@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: 'Listen to DigitalWheelie | Explore the largest community of artists, bands, podcasters and creators of music & audio.. Minneapolis. 15 Tracks. 5 Followers. Stream Tracks and Playlists from DigitalWheelie on your desktop or mobile device.'
+datePublished: '2015-11-14T19:53:13.628Z'
+dateModified: '2015-11-14T19:53:08.166Z'
 author:
   - name: DigitalWheelie
     url: 'http://soundcloud.com/digitalwheelie'
     avatar: {}
 related: []
-publisher:
-  name: SoundCloud
-  domain: soundcloud.com
-  url: 'http://soundcloud.com'
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-keywords: []
-description: 'Listen to DigitalWheelie | Explore the largest community of artists, bands, podcasters and creators of music & audio.. Minneapolis. 15 Tracks. 5 Followers. Stream Tracks and Playlists from DigitalWheelie on your desktop or mobile device.'
 app_links:
   - type: ios
     app_name: SoundCloud
@@ -22,18 +24,16 @@ app_links:
   - url: 'soundcloud://users:3245672'
     should_fallback: 'false'
     type: web
-isBasedOnUrl: 'https://soundcloud.com/digitalwheelie'
-title: DigitalWheelie
-datePublished: '2015-11-14T19:34:54.289Z'
-dateModified: '2015-11-14T19:34:49.664Z'
+title: Soundcloud
 sourcePath: _posts/2015-11-14-digitalwheelie.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
 authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: soundcloud/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
