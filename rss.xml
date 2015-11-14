@@ -4,7 +4,7 @@
         <description><![CDATA[Digital Wheelie - Peace, Love & Pop a Wheelie!]]></description>
         <link>https://thegrid.ai/digitalwheelie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 19:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2015 19:39:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digitalwheelie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://www.instagram.com/digitalwheelie/</link>
             <guid isPermaLink="false">3ef817ed-e507-4dd8-8022-377e1de4db8c</guid>
             <pubDate>Sat, 14 Nov 2015 19:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Digital Wheelie. 59 likes · 1 talking about this. Drawings, pics, music, and other art created by Ted Kusio: Let's re-invent the wheelie!</p>]]></description>
+            <link>https://www.facebook.com/DigitalWheelie</link>
+            <guid isPermaLink="false">7c39c3cc-f3a4-4ec3-9625-7674ba9624d5</guid>
+            <pubDate>Sat, 14 Nov 2015 19:38:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
