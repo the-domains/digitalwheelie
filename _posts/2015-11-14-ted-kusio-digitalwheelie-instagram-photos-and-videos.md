@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://instagram.com'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/6fd9ee8/images/ico/favicon.ico'
   domain: www.instagram.com
+  url: 'https://instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/6fd9ee8/images/ico/favicon.ico'
 keywords: []
 app_links:
   - url: 'instagram://user?username=digitalwheelie'
@@ -18,13 +18,17 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/digitalwheelie/'
 title: 'Ted Kusio (@digitalwheelie) * Instagram photos and videos'
-datePublished: '2015-11-14T19:32:32.575Z'
-dateModified: '2015-11-14T19:31:34.988Z'
+datePublished: '2015-11-14T19:33:00.685Z'
+dateModified: '2015-11-14T19:32:50.518Z'
 sourcePath: _posts/2015-11-14-ted-kusio-digitalwheelie-instagram-photos-and-videos.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
