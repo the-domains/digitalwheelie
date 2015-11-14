@@ -1,26 +1,26 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-11-14T19:45:58.072Z'
+dateModified: '2015-11-14T19:45:41.912Z'
 author: []
 related: []
+app_links: []
+title: 'DigitalWheelie - Peace, Love, and Pop a Digital Wheelie'
+sourcePath: _posts/2015-11-14-digitalwheelie-peace-love-and-pop-a-digital-wheelie.md
+published: true
+authors: []
 publisher:
   name: Digitalwheelie
   domain: digitalwheelie.com
   url: 'http://digitalwheelie.com'
   favicon: null
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'http://digitalwheelie.com/'
-title: 'DigitalWheelie - Peace, Love, and Pop a Digital Wheelie'
-datePublished: '2015-11-14T19:44:07.556Z'
-dateModified: '2015-11-14T19:43:11.796Z'
-sourcePath: _posts/2015-11-14-digitalwheelie-peace-love-and-pop-a-digital-wheelie.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-authors: []
+url: digitalwheelie-peace-love-and-pop-a-digital-wheelie/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
