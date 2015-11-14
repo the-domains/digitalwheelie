@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Digital Wheelie. 59 likes · 1 talking about this. Drawings, pics, music, and other art created by Ted Kusio: Let's re-invent the wheelie!"
-datePublished: '2015-11-14T19:43:58.636Z'
-dateModified: '2015-11-14T19:43:09.856Z'
+datePublished: '2015-11-14T19:46:28.765Z'
+dateModified: '2015-11-14T19:46:24.693Z'
 author: []
 related: []
 title: DigitalWheelie on Facebook
